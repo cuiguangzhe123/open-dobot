@@ -1,3 +1,6 @@
+# Hex is stored in the tool folder. This is the actual working one!!!
+use tool/upload_ramp.sh to upload. Remeber to download arduino from the official website. Use arvdude tool inside
+
 # New [open-dobot forum](http://open-dobot.boards.net)
 
 # [RAMPS is back](https://github.com/maxosprojects/open-dobot/releases/) and is to stay!
